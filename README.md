@@ -2,6 +2,10 @@
 
 > To view the portfolio, follow the link: [`https://ivkovalev.github.io/`](https://ivkovalev.github.io/)
 
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-Click_Here-blue)](https://ivkovalev.github.io/)
+
+
+
 <!--
 **IVKovalev/IVKovalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
