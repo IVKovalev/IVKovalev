@@ -2,10 +2,10 @@
 
 > To view the portfolio, follow the link: [`https://ivkovalev.github.io/`](https://ivkovalev.github.io/)
 
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-Click_Here-blue)](https://ivkovalev.github.io/)
 
+<!--
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-Click_Here-blue?style=for-the-badge)](https://ivkovalev.github.io/)
-
+-->
 
 <div align="center">
   <a href="https://ivkovalev.github.io/">
