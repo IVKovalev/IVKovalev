@@ -6,8 +6,10 @@
 
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-Click_Here-blue?style=for-the-badge)](https://ivkovalev.github.io/)
 
+
 <div align="center">
-  <a [![My Portfolio](https://img.shields.io/badge/My_Portfolio-Click_Here-blue?style=for-the-badge)](https://ivkovalev.github.io/)
+  <a href="https://ivkovalev.github.io/">
+    <img src="https://img.shields.io/badge/My_Portfolio-Click_Here-blue?style=for-the-badge" alt="My Portfolio">
   </a>
 </div>
 
